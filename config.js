@@ -48,26 +48,26 @@ global.sdc = 'https://youtube.com/channel/UCgnsm5vkY2wlRJnpD9I-7SQ'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081365255567'
-global.povo = '081365255567'
-global.pgopay = '081269883200'
-global.ppulsa = '081269883200'
-global.ppulsa2 = '081365255567'
-global.psaweria = 'https://saweria.co/ZakYGZ'
+global.pdana = '082289304381'
+global.povo = '082289304381'
+global.pgopay = '082289304381'
+global.ppulsa = '082289304381'
+global.ppulsa2 = '082289304381'
+global.psaweria = 'https://saweria.co/WibuKY'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281269883200'
-global.nomorown = '6281365255567'
-global.namebot = 'あ⁩ZakYB⛶T-MD⫹⫺'
-global.nameown = 'ZakYGanS'
+global.nomorown = '6282289304381'
+global.namebot = 'あ⁩NimEB⛶T-MD⫹⫺'
+global.nameown = 'HackerWibu'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281365255567'],
-  ['6281365255567'],
-  ['6281365255567'],
-  ['6281365255567', 'ZakYGanS', true]
+  ['6282289304381'],
+  ['6282289304381'],
+  ['6282289304381'],
+  ['6282289304381', 'HackerWibu', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,20 +112,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'あ⁩ZakYB⛶T-MD⫹⫺' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ZakYBoT-MD¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '⫹⫺ zakybot-MD'
+global.wm = 'あ⁩NimEB⛶T-MD⫹⫺' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨NimEBoT-MD¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '⫹⫺ NimEbot-MD'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `あ⁩Jam : ${wktuwib}`
-global.titlebot = `あ⁩ZakYB⛶T-MD⫹⫺⊹ฺ| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ zaky ❑┅┅┄┄┄'
+global.titlebot = `あ⁩NimEB⛶T-MD⫹⫺⊹ฺ| By ${global.nameown}`
+global.author = '┄┄┄┅┅❑ hacker ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
+global.thumb = 'https://telegra.ph/file/929ab562572d0fc20f60f.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/137194aa4d1e449e36bd1.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/5a882b8558fd1d2bd03fa.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumbs = ['https://telegra.ph/file/929ab562572d0fc20f60f.jpg', 'https://telegra.ph/file/929ab562572d0fc20f60f.jpg', 'https://telegra.ph/file/137194aa4d1e449e36bd1.jpg','https://telegra.ph/file/929ab562572d0fc20f60f.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -150,7 +150,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/929ab562572d0fc20f60f.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
